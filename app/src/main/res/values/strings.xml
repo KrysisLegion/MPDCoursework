@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MPD_Coursework</string>
+    <string id="Header" name="Header">Earthquake Viewer</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="magnitude">Magnitude:</string>
+    <string name="depth">Depth:</string>
+    <string name="location">Location:</string>
+</resources>
